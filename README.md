@@ -5,7 +5,7 @@
                                     
 
 ### Colab
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/nitinyadav798906/Master-v2)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 
 ## Deploy To Heroku
 
