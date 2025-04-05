@@ -8,7 +8,6 @@ xmltodict
 requests 
 pycryptodomex
 pywidevine>=1.7.0
-mpegdash>=1.6.0
 pyrogram>=2.0.106
 pyromod>=3.0.1
 yt-dlp>=2023.11.16
