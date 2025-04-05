@@ -12,6 +12,6 @@ mpegdash>=1.6.0
 pyrogram>=2.0.106
 pyromod>=3.0.1
 yt-dlp>=2023.11.16
-aiohttp
-requests
+aiohttp>=3.9.1
+requests>=2.31.0
 Pyromod
