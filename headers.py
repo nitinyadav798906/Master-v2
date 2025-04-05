@@ -72,3 +72,11 @@ allen = {
     "Accept-Encoding": "gzip, deflate, br, zstd",
     "Accept-Language": "en-US,en;q=0.9"
 }
+
+UTKARSH = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+    "Authorization": "https://apps-s3-jw-prod.utkarshapp.com",
+    "Referer": "https://utkarsh.classx.co.in/",
+    "Origin": "https://utkarsh.classx.co.in",
+    "X-Platform": "web",
+    "X-Client-Version": "2.5.0"
