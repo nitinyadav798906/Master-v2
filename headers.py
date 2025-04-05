@@ -79,4 +79,4 @@ UTKARSH = {
     "Referer": "https://utkarsh.classx.co.in/",
     "Origin": "https://utkarsh.classx.co.in",
     "X-Platform": "web",
-    "X-Client-Version": "2.5.0"
+}
